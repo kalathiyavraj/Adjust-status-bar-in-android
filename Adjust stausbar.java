@@ -1,3 +1,7 @@
+//for a screen oriantation
+setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
+
+//for a status bar
 Tools.setSystemBarColor(this, 17170443);
 Tools.setSystemBarLight(this);
 
